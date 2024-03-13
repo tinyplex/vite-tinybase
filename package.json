@@ -7,9 +7,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.1.4"
+    "vite": "^5.1.6"
   },
   "dependencies": {
-    "tinybase": "^4.6.11"
+    "tinybase": "^4.7.0"
   }
 }
